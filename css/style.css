@@ -1768,6 +1768,10 @@ a.btn-border:hover {
 	}
 	*/
 
+.heartbeat {
+    max-width: 800px;
+}
+
 .play-button {
 	border-radius: 60px;
 	-moz-border-radius: 60px;
