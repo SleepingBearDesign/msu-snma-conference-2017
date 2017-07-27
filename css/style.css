@@ -1768,6 +1768,10 @@ a.btn-border:hover {
 	}
 	*/
 
+#section-mission-statement a{
+    color: #ccc;
+}
+
 .heartbeat {
     max-width: 800px;
 }
