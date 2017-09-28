@@ -1768,7 +1768,7 @@ a.btn-border:hover {
 	}
 	*/
 
-#section-mission-statement a{
+#section-mission-statement a, #section-survey a{
     color: #ccc;
 }
 
