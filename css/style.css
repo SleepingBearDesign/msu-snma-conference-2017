@@ -1767,10 +1767,17 @@ a.btn-border:hover {
 	margin-bottom:10px;
 	}
 	*/
+.announcement {
+    background-color: #727272;
+    margin-top: -50px;
+    border-top: thin solid #ccc;
+    border-bottom: thin solid #ccc;
+}
 
-#section-mission-statement a, #section-survey a{
+#section-mission-statement a, #section-survey a, .announcement a{
     color: #ccc;
 }
+
 
 .heartbeat {
     max-width: 800px;
