@@ -1774,8 +1774,12 @@ a.btn-border:hover {
     border-bottom: thin solid #ccc;
 }
 
-#section-mission-statement a, #section-survey a, .announcement a{
-    color: #ccc;
+.announcement a{
+    color: #18453B;
+}
+
+#section-mission-statement a, #section-survey a{
+    color: #18453B;
 }
 
 
